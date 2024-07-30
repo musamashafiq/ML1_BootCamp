@@ -1,0 +1,7 @@
+train: /content/gdrive/MyDrive/Shirt_detection_Yolo/data/Train/images
+val: /content/gdrive/MyDrive/Shirt_detection_Yolo/data/Val/images
+
+
+
+nc: 4  # number of classes
+names: ['Blue_Shirts', 'White_Shirts', 'Grey_Shirts', 'Black_Shirts']  # class names
